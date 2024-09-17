@@ -11,9 +11,8 @@ This is my personal portfolio website, built using the React.js library. It show
 1. Frontend: React.js (JavaScript), JSX
 2. Styling: Tailwind CSS / CSS Modules / Styled Components
 3. State Management: React Hooks
-4. Routing: React Router (if applicable)
-5. Version Control: Git, GitHub
-6. Deployment: Vercel / Netlify
+4. Version Control: Git, GitHub
+5. Deployment: Vercel / Netlify
 
 ## Getting Started
 To run the project locally, follow these steps:
