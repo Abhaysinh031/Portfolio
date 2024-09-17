@@ -10,7 +10,7 @@ This is my personal portfolio website, built using the React.js library. It show
 ## Technologies Used
 1. Frontend: React.js (JavaScript), JSX
 2. Styling: Tailwind CSS / CSS Modules / Styled Components
-3. State Management: React Hooks, Context API (if applicable)
+3. State Management: React Hooks
 4. Routing: React Router (if applicable)
 5. Version Control: Git, GitHub
 6. Deployment: Vercel / Netlify
