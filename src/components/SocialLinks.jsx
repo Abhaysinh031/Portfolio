@@ -41,7 +41,7 @@ const SocialLinks = () => {
                 Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/full-portfolio/public/resume.pdf',
+            href: '/full-portfolio/public/Abhaysinh_deshmukh_9028776905.pdf',
             style: 'rounded-br-md',
             download:true,
         }
